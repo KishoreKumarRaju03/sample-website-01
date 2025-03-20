@@ -1,0 +1,25 @@
+
+
+.about-one img {
+    display: block;
+    margin: 0 auto;
+}
+
+.about-one h1 {
+    font-size: 4.167em;
+    line-height: 1.06;
+    font-weight: 900;
+}
+
+.about-one h2 {
+    font-size: 1.667em;
+    margin-top: -20px;
+    line-height: 1.1;
+    font-weight: 800;
+}
+
+.about-one p {
+    font-family: math;
+    font-size: 20px;
+    word-spacing: 3px;
+}

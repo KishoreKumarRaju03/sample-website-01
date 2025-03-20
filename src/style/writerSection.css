@@ -1,0 +1,132 @@
+
+
+.writer-section {
+    background-color: transparent;
+    color: #333333;
+    width: 100vw;
+    position: relative;
+    margin-left: -50vw;
+    left: 50%;
+    margin-top: 100px;
+    margin-bottom: -100px;
+}
+
+.writer-section > div {
+    max-width: 600px;
+    margin: 0 auto;
+    position: relative;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.writer-section h2 {
+    color: #333333;
+    margin: 0px 0px 30px 0px;
+    margin-bottom: 30px;
+    padding: 0px 0px 0px 0px;
+    font-size: 3.0456em;
+    line-height: 1.1;
+    font-weight: 800;
+    font-family: 'Montserrat', sans-serif;
+    text-align: left;
+}
+
+.writer-section p {
+    font-size: 18px;
+    font-family: 'Raleway', sans-serif;
+    line-height: 1.9;
+    font-weight: 300;
+    color: #333333;
+}
+
+.writer-grid {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin-top: 30px;
+    text-align: center;
+    max-width: 100%;
+}
+
+.writer-grid div {
+    padding-right: 18px;
+    margin-top: 20px !important;
+}
+
+.writer-grid div:last-child {
+    padding-right: 0;
+}
+
+.writer-grid .flexCol {
+    margin-top: 0px;
+}
+
+.writer-grid h4 {
+    text-align: center;
+}
+
+.headerCenter .writer-grid h3 {
+    text-align: center;
+}
+
+.writer-grid .fa {
+    margin-bottom: 0px;
+    color: #333333;
+    font-size: 70px;
+}
+
+.writer-grid .circle {
+    border-radius: 1em;
+}
+
+.writer-grid .square {
+    border-radius: .4em;
+}
+
+.writer-grid .outline {
+    border: .07em solid #333333;
+    border-radius: 1em;
+    padding: .16em;
+    font-size: 3.5em;
+}
+
+.writer-grid .circle,
+.writer-grid .square {
+    background-color: #333333;
+    color: #FBF8F1;
+    padding: .18em;
+    font-size: 3.5em;
+}
+
+.reverse .fa {
+    color: #FBF8F1;
+}
+
+.reverse .outline {
+    border: .07em solid #FBF8F1;
+}
+
+.reverse .square,
+.reverse .circle {
+    background-color: #FBF8F1;
+    color: #333333;
+}
+
+.fa-num {
+    font-size: 65px !important;
+    padding: 11px 5px 11px 5px !important;
+}
+
+/* .fa-glasses {
+    font-family: "Font Awesome 6 Free";
+    --fa: "\f530";
+    font-weight: 900;
+    
+} */
+
+.writer-grid p {
+    font-family: 'Raleway', sans-serif;
+    font-size: 18px;
+    line-height: 1.9;
+    font-weight: 300;
+    
+}

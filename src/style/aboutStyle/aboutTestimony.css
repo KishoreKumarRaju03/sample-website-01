@@ -1,0 +1,30 @@
+
+
+
+.about-testimony {
+    font-style: italic;
+    text-align: center;
+}
+
+.about-testimony p:nth-child(2) {
+    font-weight: 500;
+    font-style: normal;
+}
+
+.about-testimony::before {
+    content: url('../../asset/quote-mark.png');
+    filter: invert(var(--quote-invert-percent)) opacity(var(--quote-opacity-percent));
+    margin-top: 100px;
+    margin-left: -300px;
+    position: absolute;
+    float: right;
+    z-index: 0;
+}
+
+.about-testimony p {
+    font-size: 18px;
+    font-family: monospace;
+    line-height: 1.9;
+    font-weight: 300;
+}
+

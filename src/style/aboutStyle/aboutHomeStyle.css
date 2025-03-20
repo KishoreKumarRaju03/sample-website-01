@@ -1,0 +1,86 @@
+body {
+    background-image: url('../../asset/background-about.webp');
+    background-size: auto;
+}
+
+.section {
+    background-color: transparent;
+    color: #333333;
+    width: 100vw;
+    position: relative;
+    margin-left: -50vw;
+    left: 50%;
+    margin-top: 100px;
+    margin-bottom: -100px;
+    
+}
+
+.section > div {
+    max-width: 600px;
+    margin: 0 auto;
+    position: relative;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+
+.section h1,
+.section h2,
+.section h3 {
+    color: #333333;
+    margin: 0px 0px 30px 0px;
+    margin-bottom: 30px;
+    padding: 0px 0px 0px 0px;
+}
+
+.section h1 {
+    margin-bottom: 40px;
+}
+
+.section .centered,
+.section .centered h2,
+.section .centered h3,
+.section .centered h4,
+.section .centered p {
+    text-align: center;
+}
+
+.withBackgroundImg {
+    background-position: left;
+    background-size: cover;
+}
+
+.reverse {
+    color: var(--background-color);
+    background-color: var(--text-color);
+}
+
+.reverse h1,
+.reverse h2,
+.reverse h3,
+.reverse h4 {
+    color: var(--background-color);
+}
+
+.reverse table,
+.reverse tr,
+.reverse td,
+.reverse th,
+.reverse thead {
+    color: var(--background-color);
+}
+
+
+.opening {
+    margin-top: -80px;
+}
+
+.opening h2 {
+    font-size: 1.667em;
+    margin-top: -20px;
+}
+
+
+.shadow {
+    box-shadow: 30px 30px 35px -20px rgb(0, 0, 0, 18%);
+}

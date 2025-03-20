@@ -1,0 +1,49 @@
+
+
+.testimony-section{
+    background-color: #333333;
+    color: #FBF8F1;
+    width: 100vw;
+    position: relative;
+    margin-left: -50vw;
+    left: 50%;
+    margin-top: 100px;
+    margin-bottom: -100px;
+    font-style: italic;
+    text-align: center;
+}
+
+.testimony-section > div {
+    max-width: 600px;
+    margin: 0 auto;
+    position: relative;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+
+
+.testimony-section p:nth-child(2) {
+    font-weight: 500;
+    font-style: normal;
+}
+
+.testimony-section::before {
+    content: url('../asset/quote-mark.png');
+    filter: invert(100%) opacity(20%);
+    margin-top: 100px;
+    margin-left: -300px;
+    position: absolute;
+    float: right;
+    z-index: 0;
+}
+
+.testimony-section p {
+    font-size: 18px;
+    font-family: math;
+    line-height: 1.9;
+    font-weight: 300;
+}
+
+
+

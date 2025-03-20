@@ -1,0 +1,17 @@
+
+
+.extract-button {
+    color: #e8e8e8;
+    background-color: #333333;
+    padding: 10px;
+    border-radius: 6px;
+    max-width: 186px;
+    cursor: pointer;
+}
+
+.description-para-api {
+    font-size: 26px;
+    font-family: emoji;
+    letter-spacing: 7px;
+    line-height: 43px;
+}

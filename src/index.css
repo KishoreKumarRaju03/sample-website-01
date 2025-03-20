@@ -1,0 +1,100 @@
+body {
+  width: 98%;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #FBF8F1;
+  background-image: url('./asset/background-home.webp');
+  background-size: contain;
+  background-attachment: fixed;
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+:root {
+  --background-color: #FBF8F1;
+  --text-color: #333333;
+  --my-orange: #cd8170;
+  --my-blue: #4697BD;
+  --my-yellow: #EDD392;
+  --my-green: #8EB69B;
+  --my-violet: #C3AEB5;
+  --grid-background-color: rgb(0, 0, 0, 0.05);
+  --grid-background-color-reverse: rgb(255, 255, 255, 0.05);
+  --link-color: var(--textcolor);
+  --hdr-font-family: 'Montserrat', sans-serif;
+  --body-font-family: 'Raleway', sans-serif;
+  --background-img: none;
+  /* --quote-img: url('../_img/quote-mark.png'); */
+  --body-font-size: 18px;
+  --font-weight-bold: 600;
+  --body-font-weight: 300;
+  --quote-invert-percent: 100%;
+  --quote-opacity-percent: 20%;
+  --body-width: 600px;
+  --blinker-speed: 1.5s;
+
+
+  --card-padding: 25px;
+  --card-margin-top: 50px;
+  --card-box-shadow: 3px 4px 8px 0px rgba(0, 0, 0, 0.2);
+  --card-box-shadow-hover: 3px 8px 16px 0 rgba(0, 0, 0, 0.2);
+  --card-box-shadow-reverse: 3px 4px 8px 0px rgba(0, 0, 0, 0.5);
+  --card-box-shadow-hover-reverse: 3px 8px 16px 0 rgba(0, 0, 0, 0.5);
+  --card-background-color: var(--background-color);
+
+}
+
+/* body {
+  max-width: var(--body-width);
+  font-size: var(--body-font-size);
+  font-family: var(--body-font-family);
+  line-height: 1.9;
+  font-weight: var(--body-font-weight);
+  margin: 50px auto;
+  color: var(--text-color);
+  background-color: var(--background-color);
+  background-image: var(--background-img);
+  background-position: left;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+strong,
+b {
+  font-weight: var(--font-weight-bold);
+}
+
+mark {
+  background-color: var(--text-color);
+  color: var(--background-color);
+  padding: 0 0.25em;
+  opacity: 80%;
+}
+
+highlight {
+  background-color: rgb(248, 214, 72, 70%);
+  padding: 2px 10px 2px 2px;
+  border-radius: 20% 55% 20% 44%;
+}
+
+highlight-green {
+  background-color: rgb(180, 255, 0, 50%);
+}
+
+.reverse highlight {
+  color: var(--text-color);
+  border-radius: 4px;
+}
+
+.bigLinks a {
+  font-weight: bold;
+  font-size: 1.3em;
+} */

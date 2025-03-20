@@ -1,0 +1,29 @@
+
+
+.about-redo h2 {
+    font-size: 3.0456em;
+    line-height: 1.1;
+    font-weight: 800;
+}
+
+.about-redo h2 i {
+    color: var(--background-color);
+    background-color: var(--text-color);
+    padding: 2px 7px;
+    border-radius: 20px;
+    transform: rotate(-2deg);
+    font-weight: 900;
+}
+
+.about-redo h3 {
+    font-size: 1.667em;
+    line-height: 1.35;
+    font-weight: 800;
+}
+
+.about-redo p {
+    font-size: 18px;
+    font-family: monospace;
+    line-height: 1.9;
+    font-weight: 300;
+}

@@ -1,0 +1,87 @@
+.about-section-icon {
+    margin-top: 40px !important;
+}
+
+.hero {
+    margin-top: 40px;
+    margin-bottom: -100px;
+    border-bottom: solid 1px rgb(248, 245, 238, 60%);
+}
+
+.heroBanner {
+    display: flex;
+    padding: 20px 0 20px 0 !important;
+    text-transform: uppercase;
+}
+
+.heroBanner div {
+    text-align: center;
+    font-weight: bold;
+    margin: auto !important;
+    padding: 0 3px 0 3px !important;
+    line-height: 1.4em;
+}
+
+.heroBanner div:nth-child(even) {
+    font-size: 1.667em;
+}
+
+.heroBannerEx {
+    padding: 0px !important;
+}
+
+.heroBannerEx div {
+    text-transform: uppercase;
+}
+
+.heroBannerEx .grid i {
+    font-size: 90px;
+}
+
+.heroBannerEx .grid {
+    font-weight: bold;
+    line-height: 1.3em;
+    padding: 0 10px 0 10px;
+}
+
+.heroBannerEx .grid div:nth-child(1) {
+            color: var(--my-orange);
+        }
+
+        .heroBannerEx .grid div:nth-child(2) {
+            color: var(--my-green);
+        }
+
+        .heroBannerEx .grid div:nth-child(3) {
+            color: var(--my-yellow);
+        }
+
+.grid {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    margin-top: 30px;
+    text-align: center;
+    max-width: 100%;
+}
+
+.grid div {
+    padding-right: 18px;
+    margin-top: 20px !important;
+}
+
+.grid div:last-child {
+    padding-right: 0;
+}
+
+.grid .flexCol {
+    margin-top: 0px;
+}
+
+.grid h4 {
+    text-align: center;
+}
+
+.headerCenter .grid h3 {
+    text-align: center;
+}
+

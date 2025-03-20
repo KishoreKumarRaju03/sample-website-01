@@ -1,0 +1,49 @@
+
+.aboutPen {
+    margin-top: 97px;
+    font-size: 18px;
+    font-family: 'Raleway', sans-serif;
+    line-height: 1.9;
+    font-weight: 300;
+    color: #333333;
+    width: 50%;
+    margin-left: 30%;
+    display: flex;
+}
+
+.aboutPen div {
+    font-family: emoji;
+    /* float: left; */
+    margin-top: 0px;
+    box-sizing: border-box;
+}
+
+.aboutPen p {
+    margin-top: 30px;
+}
+
+.aboutPen p:nth-child(1) {
+    font-size: 2em;
+    line-height: 1.3;
+    font-weight: 700;
+}
+
+.aboutPen p:nth-child(2) {
+    margin-top: -20px;
+    font-size: 1.778em;
+    line-height: .9;
+}
+
+.aboutPen div:nth-child(2) {
+    width: 75%;
+}
+
+.aboutPen img {
+    margin-right: 50px;
+}
+
+.aboutPen::after {
+    content: "";
+    display: table;
+    clear: both;
+}

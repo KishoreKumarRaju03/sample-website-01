@@ -1,0 +1,90 @@
+
+
+/* .footer-line {
+    margin-top: 100px;
+    margin-bottom: -260px;
+    height: 2px;
+    background-color: #333333;
+}
+
+
+.footer-line-section {
+    background-color: transparent;
+    color: #333333;
+    width: 100vw;
+    position: relative;
+    margin-left: -50vw;
+    left: 50%;
+    margin-top: 100px;
+    margin-bottom: -100px;
+    text-align: center;
+} */
+
+/* .footerPen {
+    margin-top: 100px;
+    margin-bottom: -260px;
+    height: 2px;
+    background-color: #333333;
+} */
+
+
+/* .footerPen {
+    background-color: transparent;
+    color: #333333;
+    width: 100vw;
+    position: relative;
+    margin-left: -50vw;
+    left: 50%;
+    margin-top: 100px;
+    margin-bottom: -100px;
+    text-align: center;
+} */
+
+.footerPen {
+    margin-top: 97px;
+    font-size: 18px;
+    font-family: 'Raleway', sans-serif;
+    line-height: 1.9;
+    font-weight: 300;
+    color: #333333;
+    width: 50%;
+    margin-left: 30%;
+    display: flex;
+}
+
+.footerPen div {
+    font-family: emoji;
+    /* float: left; */
+    margin-top: 0px;
+    box-sizing: border-box;
+}
+
+.footerPen p {
+    margin-top: 30px;
+}
+
+.footerPen p:nth-child(1) {
+    font-size: 2em;
+    line-height: 1.3;
+    font-weight: 700;
+}
+
+.footerPen p:nth-child(2) {
+    margin-top: -20px;
+    font-size: 1.778em;
+    line-height: .9;
+}
+
+.footerPen div:nth-child(2) {
+    width: 75%;
+}
+
+.footerPen img {
+    margin-right: 50px;
+}
+
+.footerPen::after {
+    content: "";
+    display: table;
+    clear: both;
+}
