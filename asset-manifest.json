@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/sample-website-01/static/css/main.d5558948.css",
+    "main.js": "/sample-website-01/static/js/main.978582f0.js",
+    "static/js/453.2a41fa53.chunk.js": "/sample-website-01/static/js/453.2a41fa53.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/sample-website-01/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/background-about.webp": "/sample-website-01/static/media/background-about.7317b64a4373c5fde159.webp",
+    "static/media/background-brickwall.webp": "/sample-website-01/static/media/background-brickwall.7cfceb474f31841688f9.webp",
+    "static/media/heisen.png": "/sample-website-01/static/media/heisen.737d3ad3adf0f7ceb0cc.png",
+    "static/media/shoe-product.jpg": "/sample-website-01/static/media/shoe-product.b78ca0faabba64014159.jpg",
+    "static/media/fontawesome-webfont.eot": "/sample-website-01/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/sample-website-01/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/background-home.webp": "/sample-website-01/static/media/background-home.485452a70ec85c36712c.webp",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/sample-website-01/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/mighty-hand.png": "/sample-website-01/static/media/mighty-hand.b11574a943dec4e7c9f5.png",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/sample-website-01/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/logo.svg": "/sample-website-01/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/sample-website-01/index.html",
+    "main.d5558948.css.map": "/sample-website-01/static/css/main.d5558948.css.map",
+    "main.978582f0.js.map": "/sample-website-01/static/js/main.978582f0.js.map",
+    "453.2a41fa53.chunk.js.map": "/sample-website-01/static/js/453.2a41fa53.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5558948.css",
+    "static/js/main.978582f0.js"
+  ]
+}
